@@ -1,0 +1,72 @@
+[
+    {
+        "id": "123456",
+        "cover_img": "https://i.postimg.cc/KYFzxTDY/Stock-Snap-CJSRRVR4-JE.jpg",
+        "title": "The Secret Garden of Serenity",
+        "author": "Aria Evergreen",
+        "author_img": "https://i.postimg.cc/bNt6Zns1/boy1.png",
+        "posted_date": "2024-03-12",
+        "reading_time": 25,
+        "hashtags": [
+            "fiction",
+            "fantasy",
+            "adventure"
+        ]
+    },
+    {
+        "id": "789012",
+        "cover_img": "https://i.postimg.cc/vT183tb0/Stock-Snap-LEJ7-HJ5-BEA.jpg",
+        "title": "Echoes of Eternity",
+        "author": "Xander Frost",
+        "author_img": "https://i.postimg.cc/bNt6Zns1/boy1.png",
+        "posted_date": "2024-03-11",
+        "reading_time": 30,
+        "hashtags": [
+            "sci-fi",
+            "mystery",
+            "thriller"
+        ]
+    },
+    {
+        "id": "345678",
+        "cover_img": "https://i.postimg.cc/QM0XDyM6/Stock-Snap-TLFEWOOWEB.jpg",
+        "title": "Whispers in the Wind",
+        "author": "Luna Nightshade",
+        "author_img": "https://i.postimg.cc/bNt6Zns1/boy1.png",
+        "posted_date": "2024-03-10",
+        "reading_time": 20,
+        "hashtags": [
+            "romance",
+            "drama",
+            "poetry"
+        ]
+    },
+    {
+        "id": "901234",
+        "cover_img": "https://i.postimg.cc/wvM9jQy9/Stock-Snap-ELZU79-WHYI.jpg",
+        "title": "The Enigma of Elysium",
+        "author": "Phoenix Blaze",
+        "author_img": "https://i.postimg.cc/bNt6Zns1/boy1.png",
+        "posted_date": "2024-03-09",
+        "reading_time": 35,
+        "hashtags": [
+            "mystery",
+            "fantasy",
+            "adventure"
+        ]
+    },
+    {
+        "id": "567890",
+        "cover_img": "https://i.postimg.cc/nzhhQt5b/Stock-Snap-N0-ZRKV9-CI6.jpg",
+        "title": "Chronicles of Chaos",
+        "author": "Zephyr Stormborn",
+        "author_img": "https://i.postimg.cc/bNt6Zns1/boy1.png",
+        "posted_date": "2024-03-08",
+        "reading_time": 40,
+        "hashtags": [
+            "epic",
+            "fantasy",
+            "adventure"
+        ]
+    }
+]
